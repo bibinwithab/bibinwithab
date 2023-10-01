@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on React, Angular and other frontend libraries<br>🤝 I’m looking for help with creating Django projects and node-js projects<br>🌱 I’m currently learning web-scrapping technologies<br>💬 Ask me about anything regarding CLI and life lessons XD
+🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on React, Angular and other frontend libraries<br>🤝 I’m looking for help with creating Django projects and deployment<br>🌱 I’m currently learning web-scrapping technologies<br>💬 Ask me about anything regarding CLI and life lessons XD
 
 
 # 💻 Tech Stack:
