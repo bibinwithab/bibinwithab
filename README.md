@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web-scrapping technologies<br>👯 I’m looking to collaborate on React, Angular and other frontend libraries<br>🤝 I’m looking for help with creating Django projects and deployment<br>🌱 I’m currently learning backend stuffsbr>💬 Ask me about anything regarding CLI, Linux Operating Systems and life lessons XD
+🔭 I’m currently working on web-scrapping technologies<br>👯 I’m looking to collaborate on React, Angular and other frontend libraries<br>🤝 I’m looking for help with creating Django projects and deployment<br>🌱 I’m currently learning backend stuffs<br>💬 Ask me about anything regarding CLI, Linux Operating Systems and life lessons XD
 
 
 # 💻 Tech Stack:
