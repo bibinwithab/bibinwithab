@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently grinding Leetcode.<br>👯 I’m looking to collaborate on MERN Stack Projects.<br>🤝 I’m looking for help with React, Angular and other frontend libraries and deployment.<br>🌱 I’m currently learning ML & DL.<br>💬 Ask me about CLI, Linux Operating Systems and life lessons XD.<br>🎨 I also design in Adobe Photoshop and Illustrator.<br> 🏫 Beginner in video editing using Adobe Premiere Pro.
+🔭 I’m currently grinding Leetcode.<br>👯 I’m looking to collaborate on MERN & Frontend Projects.<br>🌱 I’m currently learning ML & DL.<br>💬 Ask me about CLI, Linux Operating Systems and life lessons XD.<br>🎨 I also design in Adobe Photoshop and Illustrator.<br> 🏫 Beginner in video editing using Adobe Premiere Pro.
 
 
 # 💻 Tech Stack:
